@@ -18,8 +18,8 @@ I'm passionate about building reliable software, studying algorithms, and explor
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,docker,kubernetes,git,linux,bash,postgres,fastapi,react,vscode,clion" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,docker,kubernetes,git,fastapi,vscode,clion" />
 </p>
 
 ---
