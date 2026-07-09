@@ -59,12 +59,12 @@ University assignments covering Python fundamentals, OOP and software design.
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Repositories
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IAmDaWizard&show_icons=true&theme=github_light&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmDaWizard&layout=compact&theme=github_light&hide_border=true" />
-</p>
+- [DevRep](https://github.com/IAmDaWizard/DevRep) — Industrial software development labs with Docker and Kubernetes.
+- [ML-Engineering](https://github.com/IAmDaWizard/ML-Engineering) — Machine Learning Engineering labs and experiments.
+- [C-lab1](https://github.com/IAmDaWizard/C-lab1) — C programming, algorithms and data structures.
+- [YE](https://github.com/IAmDaWizard/YE) — Python laboratory works and programming practice.
 
 ---
 
