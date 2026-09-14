@@ -72,7 +72,7 @@ University assignments covering Python fundamentals, OOP and software design.
 
 - GitHub: https://github.com/IAmDaWizard
 - Telegram: @IAmDaWizard
-- Email: dubchakaleksandar@icloud.com
+- Email: dubchakaleksandar@yandex.ru
 
 ---
 
