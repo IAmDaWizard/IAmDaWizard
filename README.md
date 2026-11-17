@@ -1,4 +1,4 @@
-# Hi, I'm Aleksandr 👋
+# Hi, I'm Aleksander 👋
 
 **Computer Science student at Moscow Aviation Institute (MAI)**
 
@@ -32,8 +32,8 @@ Laboratory works covering Docker, Kubernetes and modern development tools.
 ### 🤖 Machine Learning Engineering
 Practical assignments focused on data analysis, machine learning and model evaluation.
 
-### 💻 C Programming
-Algorithms, data structures, graph algorithms and systems programming in C.
+### 💻 C++ Programming
+Algorithms, data structures, graph algorithms and systems programming in C++.
 
 ### 🐍 Python Laboratory Works
 University assignments covering Python fundamentals, OOP and software design.
